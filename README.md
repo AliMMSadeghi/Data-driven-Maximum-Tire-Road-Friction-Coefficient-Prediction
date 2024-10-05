@@ -13,10 +13,9 @@ This project develops an algorithm to predict maximum TRFC using a multi-layer p
 ## Installation
 To get started, follow these steps:
 
-1. **Clone the repository**:
+**Clone the repository**:
     ```sh
     git clone https://github.com/AliMMSadeghi/Data-driven-Maximum-Tire-Road-Friction-Coefficient-Prediction.git
-    cd A1-Kinova-LocoManipulation-NMPC
     ```
 ## Usage
 To run the main file for the project, use the following command in MATLAB:
